@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ios-network-libs-perfomance_analysis.xcodeproj">
+      location = "self:iOSNetPerformance.xcodeproj">
    </FileRef>
 </Workspace>

@@ -1,8 +1,8 @@
 //
 //  AppDelegate.h
-//  ios-network-libs-perfomance_analysis
+//  iOSNetPerformance
 //
-//  Created by José Silva on 15/05/2019.
+//  Created by José Silva on 16/05/2019.
 //  Copyright © 2019 Codavel. All rights reserved.
 //
 
